@@ -37,6 +37,8 @@ It includes resources from books, courses, research papers, and other learning m
 #### 📚 Books
 - [**Build a Large Language Model (From Scratch)** — Sebastian Raschka](./LLM/build-a-llm-from-scratch/README.md)
 
+- [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
+
 #### 🎓 Courses
 - (to be added)
 
