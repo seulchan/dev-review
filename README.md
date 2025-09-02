@@ -9,6 +9,8 @@
 #### 📚 책 (Books)
 - [**Build a Large Language Model (From Scratch)** — Sebastian Raschka](./LLM/build-a-llm-from-scratch/README.md)
 
+- [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
+
 #### 🎓 강의 (Courses)
 - (추가 예정)
 
