@@ -2,6 +2,7 @@
 
 - 저자(Author): [Sebastian Raschka](https://sebastianraschka.com)  
 - 출판(Publisher): [Manning Publications](https://www.manning.com/books/build-a-large-language-model-from-scratch)
+- 코드(Code): [Github](https://github.com/rasbt/LLMs-from-scratch)
 
 ---
 
