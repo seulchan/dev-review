@@ -3,13 +3,16 @@
 ## 🇰🇷 소개
 
 인공지능(AI) 관련 학습 자료와 노트를 정리하는 저장소입니다.  
-책, 강의, 논문 등 다양한 형태의 학습 리소스를 기록합니다. 
+책, 강의, 논문 등 다양한 형태의 학습 자료를 기록합니다. 
 
-### 📝 학습 리소스
+### 📝 학습 자료
+
 #### 📚 책 (Books)
 - [**Build a Large Language Model (From Scratch)** — Sebastian Raschka](./LLM/build-a-llm-from-scratch/README.md)
 
 - [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
+
+- [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
 
 #### 🎓 강의 (Courses)
 - (추가 예정)
@@ -19,6 +22,7 @@
 
 #### 💡 기타 (Others)
 - (추가 예정)
+
 ### 📝 참고
 - 이 repo는 개인적인 학습 및 리뷰용으로 작성되었습니다.  
 - 원저작권은 저자와 출판사에 있으며, 여기 포함된 원문 발췌는 학습 목적에 한정됩니다.  
@@ -38,6 +42,8 @@ It includes resources from books, courses, research papers, and other learning m
 - [**Build a Large Language Model (From Scratch)** — Sebastian Raschka](./LLM/build-a-llm-from-scratch/README.md)
 
 - [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
+
+- [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
 
 #### 🎓 Courses
 - (to be added)
