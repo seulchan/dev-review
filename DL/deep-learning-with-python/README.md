@@ -11,3 +11,6 @@
 - Chapter 8. Image Classification
   - [Korean Version](./ch08.md)  
   - [English Version](./ch08.en.md)
+- Chapter 9. ConvNet architecture patterns
+  - [Korean Version](./ch09.md)
+  - [English Version](./ch09.en.md)
