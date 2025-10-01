@@ -14,3 +14,6 @@
 - Chapter 9. ConvNet architecture patterns
   - [Korean Version](./ch09.md)
   - [English Version](./ch09.en.md)
+- Chapter 10. Interpreting what ConvNets learn
+  - [Korean Version](./ch10.md)
+  - [English Version](./ch10.en.md)
