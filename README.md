@@ -15,7 +15,7 @@
 - [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
 
 #### 🎓 강의 (Courses)
-- (추가 예정)
+- [**LLM Engineering: Master AI, Large Language Models & Agents** - Ed Donner](./LLM/llm-engineering/README.md)
 
 #### 📑 논문 (Papers)
 - (추가 예정)
@@ -50,7 +50,7 @@ It includes resources from books, courses, research papers, and other learning m
 - [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
 
 #### 🎓 Courses
-- (to be added)
+- [**LLM Engineering: Master AI, Large Language Models & Agents** - Ed Donner](./LLM/llm-engineering/README.md)
 
 #### 📑 Papers
 - (to be added)
