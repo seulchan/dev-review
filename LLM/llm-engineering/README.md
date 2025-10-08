@@ -11,3 +11,6 @@
 - Week 1. Build Your First LLM Product: Exploring Top Models & Transformers
   - [Korean Version](./w1.md)  
   - [English Version](./w1.en.md)
+- Week 2. Build a Multi-Modal Chatbot: LLMs, Gradio UI, and Agents in Action
+  - [Korean Version](./w2.md)  
+  - [English Version](./w2.en.md)
