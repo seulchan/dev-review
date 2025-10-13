@@ -14,3 +14,10 @@
 - Week 2. Build a Multi-Modal Chatbot: LLMs, Gradio UI, and Agents in Action
   - [Korean Version](./w2.md)  
   - [English Version](./w2.en.md)
+- Week 3 — Open Source Foundations: Hugging Face, Pipelines, Tokenizers & Models
+  - [Korean Version](./w3.md)
+  - [English Version](./w3.en.md)
+- Week 4 — LLM Showdown: Evaluating Models for Code Generation & Business Tasks
+  - [Korean Version](./w4.md)
+  - [English Version](./w4.en.md)
+
