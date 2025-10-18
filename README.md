@@ -2,7 +2,7 @@
 
 ## 🇰🇷 소개
 
-인공지능(AI) 관련 학습 자료와 노트를 정리하는 저장소입니다.  
+개발 관련 학습 자료와 노트를 정리하는 저장소입니다.  
 책, 강의, 논문 등 다양한 형태의 학습 자료를 기록합니다. 
 
 ### 📝 학습 자료
@@ -13,6 +13,8 @@
 - [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
 
 - [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
+
+- [**Elixir in Action** - Saša Jurić](./elixir/elixir-in-action/README.md)
 
 #### 🎓 강의 (Courses)
 - [**LLM Engineering: Master AI, Large Language Models & Agents** - Ed Donner](./LLM/llm-engineering/README.md)
@@ -37,7 +39,7 @@
 
 ## 🇺🇸 Introduction
 
-This repository contains study materials and notes related to Artificial Intelligence (AI).  
+This repository contains study materials and notes related to software development.  
 It includes resources from books, courses, research papers, and other learning materials.  
 
 ### 📝 Learning Resources
@@ -48,6 +50,8 @@ It includes resources from books, courses, research papers, and other learning m
 - [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
 
 - [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
+
+- [**Elixir in Action** - Saša Jurić](./elixir/elixir-in-action/README.md)
 
 #### 🎓 Courses
 - [**LLM Engineering: Master AI, Large Language Models & Agents** - Ed Donner](./LLM/llm-engineering/README.md)
