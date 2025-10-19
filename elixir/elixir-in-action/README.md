@@ -11,3 +11,6 @@
 - Chapter 1. First steps
   - [Korean Version](./ch01.md)  
   - [English Version](./ch01.en.md)
+- Chapter 2. Building blocks
+  - [Korean Version](./ch02.md)  
+  - [English Version](./ch02.en.md)
