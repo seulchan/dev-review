@@ -14,3 +14,6 @@
 - Chapter 2. Building blocks
   - [Korean Version](./ch02.md)  
   - [English Version](./ch02.en.md)
+- Chapter 3. Control flow
+  - [Korean Version](./ch03.md)  
+  - [English Version](./ch03.en.md)
