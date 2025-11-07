@@ -20,3 +20,12 @@
 - Chapter 4. Data Abstractions
   - [Korean Version](./ch04.md)  
   - [English Version](./ch04.en.md)
+- Chapter 5. Concurrency Primitives
+  - [Korean Version](./ch05.md)  
+  - [English Version](./ch05.en.md)
+- Chapter 6. Generic Server Processes
+  - [Korean Version](./ch06.md)  
+  - [English Version](./ch06.en.md)
+- Chapter 7. Building a Concurrent System in Elixir
+  - [Korean Version](./ch07.md)  
+  - [English Version](./ch07.en.md)
