@@ -29,3 +29,6 @@
 - Chapter 7. Building a Concurrent System in Elixir
   - [Korean Version](./ch07.md)  
   - [English Version](./ch07.en.md)
+- Chapter 8. Fault tolerance basics
+  - [Korean Version](./ch08.md)  
+  - [English Version](./ch08.en.md)
