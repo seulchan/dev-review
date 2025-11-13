@@ -14,8 +14,6 @@
 
 - [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
 
-- [**Elixir in Action** - Saša Jurić](./elixir/elixir-in-action/README.md)
-
 #### 🎓 강의 (Courses)
 - [**LLM Engineering: Master AI, Large Language Models & Agents** - Ed Donner](./LLM/llm-engineering/README.md)
 
@@ -50,8 +48,6 @@ It includes resources from books, courses, research papers, and other learning m
 - [**Hands-On Large Language Models** — Jay Alammar, Maarten Grootendorst](./LLM/hands-on-llm/README.md)
 
 - [**Deep Learning with Python** - François Chollet, Matthew Watson](./DL/deep-learning-with-python/README.md)
-
-- [**Elixir in Action** - Saša Jurić](./elixir/elixir-in-action/README.md)
 
 #### 🎓 Courses
 - [**LLM Engineering: Master AI, Large Language Models & Agents** - Ed Donner](./LLM/llm-engineering/README.md)
